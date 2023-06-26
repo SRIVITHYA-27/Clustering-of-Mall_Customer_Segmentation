@@ -1,6 +1,9 @@
 # Clustering-of-Mall_Customer_Segmentation
 Problem Statement You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
 
+![image](https://github.com/SRIVITHYA-27/Clustering-of-Mall_Customer_Segmentation/assets/98554363/11cdacc9-8544-4d64-bc76-b6dfafbc4bb8)
+
+
 # Inferences:
 
 *1)The count is 200 means we have records of 200 customers with us.
