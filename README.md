@@ -3,6 +3,8 @@ Problem Statement You own the mall and want to understand the customers like who
 
 ![image](https://github.com/SRIVITHYA-27/Clustering-of-Mall_Customer_Segmentation/assets/98554363/11cdacc9-8544-4d64-bc76-b6dfafbc4bb8)
 
+![image](https://github.com/SRIVITHYA-27/Clustering-of-Mall_Customer_Segmentation/assets/98554363/5b068f64-7eac-407d-82e2-8869de6be54f)
+
 
 # Inferences:
 
